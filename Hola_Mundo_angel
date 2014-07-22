@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+  <html>
+    <head>
+      <title>Hola Mundo</title>
+    </head>
+    <body>
+      <header>¡Hola Mundo!</header>
+      <nav></nav>
+      <section>
+       <article>
+       </article>
+      </section>
+      <footer>
+      </footer>
+    </body>
+  </html>
